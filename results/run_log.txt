@@ -1,0 +1,8 @@
+validation done 39.9 s
+coherent n 8 60.0 s
+coherent n 10 81.0 s
+coherent n 12 106.8 s
+noise n 6 136.8 s
+noise n 8 195.8 s
+noise n 10 335.1 s
+done in 422.0 s
